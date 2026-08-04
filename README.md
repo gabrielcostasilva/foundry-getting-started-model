@@ -1,2 +1,6 @@
-# foundry-getting-started-model
-Playground for using AI models with Microsoft Foundry
+# Foundry _Getting Started_: Using a Model
+
+This is a Python/Jupyter-based project for getting started using Microsoft Foundry with AI models.
+
+Two dependencies are required: `azure-ai-projects` and `azure-identity`. All others are Jupyter-related.
+
