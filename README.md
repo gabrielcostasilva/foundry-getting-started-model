@@ -4,9 +4,9 @@ This is a Python/Jupyter-based project for getting started using Microsoft Found
 
 Two dependencies are required: `azure-ai-projects` and `azure-identity`. All others are Jupyter-related.
 
-## ENTRA-ID BRANCH - ALTERNATIVE IMPLEMENTATION
+## OPENAI-CLIENT BRANCH
 
-As the previous [branch](#), this uses Entra ID instead of API key. However, this implementation introduces changes, as follows:
+As the previous [branch](https://github.com/gabrielcostasilva/foundry-getting-started-model/tree/entra-id), this uses Entra ID instead of API key. However, this implementation uses the OpenAI client, which introduces the following changes:
 - Importing `AIProjectClient` class;
 - Creating project configuration with `endpoint` and `credentials`; and,
 - Getting the client through `get_openai_client`
