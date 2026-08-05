@@ -4,3 +4,8 @@ This is a Python/Jupyter-based project for getting started using Microsoft Found
 
 Two dependencies are required: `azure-ai-projects` and `azure-identity`. All others are Jupyter-related.
 
+> Branches
+
+Other branches extend this project as follows:
+- [entra-id](https://github.com/gabrielcostasilva/foundry-getting-started-model/tree/entra-id) replaces the API token with Entra ID credentials;
+- [openai-client](https://github.com/gabrielcostasilva/foundry-getting-started-model/tree/openai-client) uses the OpenAI client, which give access to other features.
