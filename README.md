@@ -12,3 +12,4 @@ Other branches extend this project as follows:
 - [entra-id](https://github.com/gabrielcostasilva/foundry-getting-started-model/tree/entra-id) replaces the API token with Entra ID credentials;
 - [openai-client](https://github.com/gabrielcostasilva/foundry-getting-started-model/tree/openai-client) uses the OpenAI client, which give access to other features.
 - [setting-parameters](https://github.com/gabrielcostasilva/foundry-getting-started-model/tree/setting-parameters) adds inference parameters to customise the response.
+- [multi-turn-chat-model](https://github.com/gabrielcostasilva/foundry-getting-started-model/tree/multi-turn-chat-model) gets a previous response as reference.
